@@ -5,6 +5,8 @@ A/B tests are very commonly performed by data analysts and data scientists. It i
 
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
+![12-Lessons-from-Running-512-AB-Tests-in-One-Year_Invesp-1](https://user-images.githubusercontent.com/48868854/56079671-38b1a080-5e15-11e9-81aa-610b31a79292.png)
+
 ## PROJECT SPECIFICATION
 Analyze A/B Test Results
 
